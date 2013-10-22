@@ -1,0 +1,14 @@
+{
+    "name": "KSortTable",
+    "version": "1.0",
+    "desc": "",
+    "cover": "",
+    "tag":"sortTable",
+    "author": {
+        "name": "晨辰",
+        "email": "cc.ccking@gmail.com",
+        "page": ""
+    },
+    "type": "kissy-gallery",
+    "type-url": "http://gallery.kissyui.com/guide"
+}
