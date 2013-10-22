@@ -17,7 +17,6 @@ KSortTable是一个小巧精简的表格排序组件。
 * 1、对将要排序的表格添加自定义属性 data-sorttable="true"
 * 2、要排序列的th添加 data-sorttable="default"
 * 3、初始化 new KSortTable('#J_tab');
-----
 * 对于日期的排序，因为日期格式问题，暂未处理
 
 ## TODO

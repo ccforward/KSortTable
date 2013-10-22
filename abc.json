@@ -1,14 +1,15 @@
 {
     "name": "KSortTable",
     "version": "1.0",
-    "desc": "",
+    "desc": "表格排序",
     "cover": "",
-    "tag":"sortTable",
+    "tag":"表格",
     "author": {
         "name": "晨辰",
         "email": "cc.ccking@gmail.com",
-        "page": ""
+        "page": "http://ccforward.net"
     },
     "type": "kissy-gallery",
-    "type-url": "http://gallery.kissyui.com/guide"
+    "type-url": "http://gallery.kissyui.com/guide",
+    "githubName":"ccforward"
 }

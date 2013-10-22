@@ -1,3 +1,9 @@
+/*
+combined files : 
+
+gallery/KSortTable/1.0/index
+
+*/
 /**
  * @fileoverview 
  * @author 晨辰<cc.ccking@gmail.com>
