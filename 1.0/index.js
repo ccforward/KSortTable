@@ -3,10 +3,8 @@
  * @author 晨辰<cc.ccking@gmail.com>
  * @module KSortTable
  **/
-KISSY.add(function(S){
-    var E = S.Event,
-        D = S.DOM,
-        $ = S.all;
+KISSY.add(function(S, E, D, N){
+    var $ = S.all;
 
     function KSortTable(id) {
         // 初始化
@@ -48,6 +46,7 @@ KISSY.add(function(S){
             // 按日期排序
             date: function (row1, row2) {
                 // TODO   格式问题
+                //return Date.parse(row1.value.replace(/-/g,'/')) - Date.parse(row1.value.replace(/-/g,'/'));
             }
         },
 
@@ -141,8 +140,8 @@ KISSY.add(function(S){
         }
     }
   return KSortTable;
-
-
+},{
+    requires:['event', 'dom', 'node']
 });
 
 
