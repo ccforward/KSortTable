@@ -143,6 +143,3 @@ KISSY.add(function(S, E, D, N){
 },{
     requires:['event', 'dom', 'node']
 });
-
-
-
